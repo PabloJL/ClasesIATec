@@ -1,17 +1,19 @@
 # E3
+import operator
+import math
 seguir= True
 
 def areaTriangulo (b,h):
-    print (f'El área del triángulo es de: {(b*h)/2}')
+    print (f'El área del triángulo es de: {operator.truediv(operator.mul(b,h),2)}')
 
 def areaCuadrado (l):
-    print (f'El área del cuadrado es de: {pow(l,2)}')
+    print (f'El área del cuadrado es de: {operator.mul(l,l)}')
 
 def areaRectangulo (b,h):
-    print (f'El área del rectángulo es de: {(b*h)}')
+    print (f'El área del rectángulo es de: {operator.mul(b,h)}')
 
 def areaCirculo (r):
-    print (f'El área del círculo es de: {3.14 * (r**2)}')
+    print (f'El área del círculo es de: {operator.mul(math.pi, math.pow(r,2))}')
 
 
 
