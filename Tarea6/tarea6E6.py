@@ -1,3 +1,4 @@
+#E6
 seguir= True
 while seguir == True:
 

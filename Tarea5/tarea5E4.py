@@ -1,3 +1,4 @@
+##E4
 cantidad = int(input("¿Cuántos números desea sumar?:\n"))
 suma = 0
 lista=[]

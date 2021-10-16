@@ -1,3 +1,4 @@
+##E2
 primerNumero= int(input("Ingrese el primer número:\n"))
 segundoNumero= int(input("Ingrese el segundo número:\n"))
 tercerNumero= int(input("Ingrese el tercer número:\n"))

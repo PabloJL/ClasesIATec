@@ -1,3 +1,4 @@
+##E5
 cantidad = int(input("¿Cuántos unidades desea promediar?:\n"))
 suma = 0
 unidades=[]

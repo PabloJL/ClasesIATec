@@ -1,3 +1,4 @@
+#E2
 numero= int(input("Ingrese un número del 1 al 10:\n"))
 
 

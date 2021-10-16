@@ -1,3 +1,4 @@
+#E4
 import random 
 listNumeros = []
 
